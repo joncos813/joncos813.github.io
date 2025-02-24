@@ -1,6 +1,5 @@
 # joncos813.github.io
 <!DOCTYPE html>
-<html>
 <head>
     <title>Welcome to My GitHub Portfolio</title>
 </head>
